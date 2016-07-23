@@ -6048,6 +6048,7 @@ ul {
   list-style-type: disc;
 }
 code {
+  width: 60%;
   padding: 0.1em 0.4em;
   background: #e8f2fb;
   border: 1px solid #c9e1f6;
